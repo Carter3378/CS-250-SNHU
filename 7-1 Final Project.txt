@@ -1,0 +1,41 @@
+CS 250 7-1 Final Project
+Carter Taylor
+Southern New Hampshire University
+Course Number: 11712
+Professor: Dr. Tad Kellog
+08/17/2025
+
+
+Applying Roles:
+Our Scrum team for the SNHU travel project consisted of a Product Owner, a Scrum Master, a Developer, and a Tester. The success of our project was largely influenced by how each individual Scrum-Agile role contributed to the development process. 
+The Product Owner was responsible for drawing together our stakeholders and the scrum team to create a shared vision of our goals. The Product Owner demonstrated multiple times how decisive communication between stakeholders and the Scrum team can be. Through multiple meetings with SNHU travel the Scrum team was able to stay up to date on our requirements and our priorities. The Scrum Master, my role, is responsible for ensuring the Scrum team understands and executes the Scrum theory to the utmost efficacy along with removing any impediments that block the development cycle. In our development cycle throughout this project, we were able to stay informed and organized through the multiple Scrum events that were executed in a timely and professional manner. The Developer plays a key role in the Scrum team by turning product requirements into functional software solutions. The Developer must always remain flexible to adapt to any changes in requirements while maintaining a focus on delivering value to the end user. Throughout our development process the Developer was able to adapt to the shifting requirements that were communicated by the Product owner to deliver impactful and usable software iterations. The Tester has the responsibility of ensuring the delivered product is stable and behaves as intended. Though described as an integrated member of the development team, for our purposes it was treated as a more separate role. In our development process for the SNHU travel project the Tester was able to translate user stories into clearly defined test cases to ensure the product we delivered was impactful to the end user and did not have any issues.
+Completing User Stories:
+The Scrum-Agile approach supported our completion of user stories by emphasizing iterative progress and prioritization of those iterations. Breaking down our work into these iterations allowed us to maintain our momentum and ensure quality even when those goals change. Because of the new Agile process, we were able to have our Product owner meet with some of the customers who currently use the SNHU Travel platform. These users were able to share some of their ideas that they had for the platform that they desired. From this meeting we were able to derive impactful user stories. This meeting not only helped to inform us of what the users wanted but how important each recommendation was. This allowed us to establish a priority of our work items based on what the users really desired from the platform. 
+User stories serve as a critical tool for the Scrum Team by translating user requirements into manageable and concise units of work. They enable a shared understanding among the Scrum team about what needs to be built and why. Well implemented user stories help prioritize work based on user value and they enable better planning and efficacy during sprints.
+Handling Interruptions:
+The Scrum-Agile methodology offers many tools to accommodate interruptions in the development cycle. At one point, stakeholders met with the product owner where a shift in requirements was introduced. This change was a shift in focus towards offering detoxification and wellness packages to the end user. After this meeting, these new changes in requirements were immediately brought to the attention of the entire Scrum team. After being notified the Scrum team was able to collaborate on what reprioritization needed to happen and what user stories needed to be adjusted. Additionally, test cases were edited to accommodate the change in requirements. Through this collaborative effort and efficient communication enabled by the Scrum-Agile format the team was able to deliver a usable iteration of the software on time meeting the new requirements. 
+Communication:
+Communication is one of the most important factors in keeping a team aligned and productive in the software development life cycle. Clear and open communication is paramount to an Agile team’s success as it fosters openness, transparency, and trust. In our regularly scheduled scrum events ideas and problems were able to be communicated and overcome as a collaborative effort. Communication is paramount to ensuring all members are aligned. In one case where the requirements changed the Product Owner called a meeting to include all Scrum team members and inform them of the shifting requirements. This allowed the team to tackle the problem together and ensured everyone was involved in the solution. In another instance, clarification was needed on some of the test cases the Tester was working on. The Tester sent an email to the Product owner to get additional information and perspective on how the test cases should be developed.
+Example Email: 
+“Subject: Clarification needed on list order and site load times
+Hi Christy,
+I hope this email finds you well. I’m currently designing the test cases for the list orders of Recommendations and Hot Deals features. I would like some additional clarification on some of the aspects involved to ensure we are testing the functionality accurately. 
+I want to confirm:
+1.	How should the Hot Deals list be sorted, by highest price or some other method?
+2.	Are there any performance concerns we should be aware of when loading these new lists?
+3.	Are there any additional factors that should determine relevance on the recommended page?
+Thank you very much for your attention to this matter and your continued support!”
+This communication was effective because it clearly outlined what was required to advance the work. It was also professional and polite, maintaining a standard of communication that ensures all involved are treated with respect. Additionally, the emails support more open discussion regarding the work criteria effectively encouraging inclusivity in further discussion.
+Organizational Tools:
+Scrum events and the Agile tools were a centerpiece in maintaining effective communication and the team’s success. Sprint planning helped the team to break down large items into more manageable pieces and align them with our overall goals. Our daily stand-ups create consistency and help to identify day-to-day impediments. Sprint Reviews give visibility to our stakeholders on our progress and provide us with valuable feedback while Sprint Retrospectives encourage the team to reflect and improve from our previous sprints. Tools like the product backlog and user stories supported organization and transparency while allowing us to measure our progress towards the sprint goals. Collectively, these tools ensured the team and the project remained organized and transparent.
+Evaluating Agile Process: 
+The Scrum-Agile approach to software development was highly effective for the SNHU Travel project. This approach had much to offer in its benefits to our development cycle though it was not without its own unique challenges.
+Pros:
+•	Incremental delivery of usable products allowed for immediate feedback and gratification
+•	Flexibility that supported changes to our requirements
+•	Collaboration and communication that supported accountability and collaboration
+Cons:
+•	Work items are more easily interrupted or scrapped due to stakeholder engagement
+•	Ill-defined goals are possible and lead to project creep
+•	Rapid pivots to multiple work items can leave some attributes unfulfilled
+Despite these drawbacks to the Scrum-Agile approach was the best choice in taking on the SNHU Travel project. The projects requirements were fluid at some points and were shaped by stakeholder’s feedback. This made the Agile framework the best fit. A more rigid method such as waterfall would not have allowed us to accommodate the changes that were presented throughout the project and effectively would have delivered an undesired product. Overall, Scrum-Agile enabled the team to deliver a product that was aligned with user needs
